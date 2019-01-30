@@ -1,5 +1,5 @@
 {
-  "name": "sprint-0-sq19-lexden12",
+  "name": "sprint-0-sq19-jayazicate",
   "version": "1.0.0",
   "description": "Sprint 0",
   "main": "server.js",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/upcs/sprint-0-sq19-jayazicate.git"
   },
-  "author": "Lexden",
+  "author": "Joshua Azicate",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/upcs/sprint-0-sq19-jayazicate/issues"
